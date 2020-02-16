@@ -65,7 +65,7 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 
 [[package]]
 name = "luster"
-version = "0.1.1"
+version = "0.1.2"
 dependencies = [
  "structopt 0.3.9 (registry+https://github.com/rust-lang/crates.io-index)",
 ]
