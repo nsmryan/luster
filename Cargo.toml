@@ -1,6 +1,6 @@
 [package]
 name = "luster"
-version = "0.1.1"
+version = "0.1.2"
 authors = ["Noah Ryan <nsmryan@gmail.com>"]
 edition = "2018"
 description="""
@@ -9,7 +9,7 @@ use and only tested on my personal laptop.
 This tool is provided with the hope that it may be useful to others as well.
 """
 keywords=["cli", "windows", "brightness"]
-categories=["Command line utilities"]
+categories=["command-line-utilities"]
 license="MIT"
 repository="https://github.com/nsmryan/luster"
 homepage="https://github.com/nsmryan/luster"
