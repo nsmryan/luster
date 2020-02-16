@@ -10,7 +10,7 @@ This tool is provided with the hope that it may be useful to others as well.
 """
 keywords=["cli", "windows", "brightness"]
 categories=["cli", "windows"]
-license="MIT or APACHE"
+license="MIT"
 repository="https://github.com/nsmryan/luster"
 homepage="https://github.com/nsmryan/luster"
 
