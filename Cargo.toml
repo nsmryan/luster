@@ -1,0 +1,20 @@
+[package]
+name = "luster"
+version = "0.1.0"
+authors = ["Noah Ryan <nsmryan@gmail.com>"]
+edition = "2018"
+description="""
+luster is a command line tool for setting the screen brightness on windows systems. It was developed for personal
+use and only tested on my personal laptop.
+This tool is provided with the hope that it may be useful to others as well.
+"""
+keywords=["cli", "windows", "brightness"]
+categories=["cli", "windows"]
+license="MIT or APACHE"
+repository="https://github.com/nsmryan/luster"
+homepage="https://github.com/nsmryan/luster"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+structopt = "0.3.9"
